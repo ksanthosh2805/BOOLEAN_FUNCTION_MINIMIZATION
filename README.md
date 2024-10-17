@@ -67,6 +67,8 @@ endmodule
 
 **Truth Table**
 ![output](./truthtable.png)
+![image](https://github.com/user-attachments/assets/c1d47a44-2ea1-4774-9a7f-35036ca13fab)
+
 
 **Timing Diagram**
 ![image](https://github.com/user-attachments/assets/2f153149-4e98-4271-ab37-c4389686284d)
